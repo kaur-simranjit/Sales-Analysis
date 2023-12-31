@@ -1,4 +1,4 @@
-<h1>Sales-Analysis-MS-Excel</h1> 
+<h1>Sales Analysis using Excel</h1> 
 <p>The Sales Analysis Project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
 
 <h3>Tool</h3>
