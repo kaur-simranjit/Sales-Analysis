@@ -21,7 +21,7 @@ Sales Transactions dataset with 34,865 rows and 18 columns spanning 2 years.
 <h5>Data Analysis and Dashboard</h5>
 
 ![pivot_tables_1](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/e90e1af7-2b08-4dd3-970d-e188d7883b2a)
-![pivot_tables_2](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/306f2910-16ff-4fb3-8e59-93c8492b21b4)
+![pivot_tables_2](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/69e62539-9b87-429c-a28d-dbd3e390f193)
 
 <h5>Dashboard Features</h5>
 Sales Overview
