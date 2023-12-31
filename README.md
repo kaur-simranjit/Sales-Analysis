@@ -4,7 +4,7 @@
 <h3>Tool</h3>
 Microsoft Excel
 <br>
-Skills: Aggregate Functions, Lookup and Reference Functions, Pivot Tables and Charts
+Skills: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
 
 <h3>Dataset</h3>
 Kaggle(https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis)
