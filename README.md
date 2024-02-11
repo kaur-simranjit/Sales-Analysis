@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-anal
 The dataset comprises sales transactions data with 34,865 rows and 18 columns spanning 2 years.
 <ul style="list-style-type:disc">
   <li>During the data cleaning process, blank column and cells are removed from the dataset. </li>
-  <li>As part of data preprocessing, customer ages are categorized into age groups: senior, adult, and teenager.Profit and Profit Margin are computed using Cost and Revenue columns.</li>
+  <li>As part of data preprocessing, customer ages are categorized into age groups: senior, adult, and teenager. Profit and Profit Margin are computed using Cost and Revenue columns.</li>
 </ul>
 
 ![data_cleaning_and_processing](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/070bad10-bb0f-4174-ba1e-57de084a4b12)
