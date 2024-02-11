@@ -1,5 +1,5 @@
 <h1>Sales Analysis using Excel</h1> 
-<p>The Sales Analysis Project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
+<p>The Sales Analysis project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
 
 ![sales_dashboard](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/aca62998-0ab7-42c5-8862-d5838a8100ff)
 <h3>Tool Used</h3>
