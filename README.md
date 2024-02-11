@@ -3,7 +3,7 @@
 
 <h3>Tool Used</h3>
 
-![Microsoft-Excel-Symbol1](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/3d662da3-4d3a-43e9-ad19-5a23e94f9c59)
+![Excel-Symbol](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/120a302f-f068-4678-a30e-81c314070a95)
 <br>
 Excel Skills Used: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
 
