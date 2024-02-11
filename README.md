@@ -2,7 +2,8 @@
 <p>The Sales Analysis Project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
 
 <h3>Tool Used</h3>
-Microsoft Excel
+
+![Microsoft-Excel-Symbol](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/4df73e7a-dc03-48a0-8592-2289a5f327c4)
 <br>
 Excel Skills Used: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
 
