@@ -66,5 +66,5 @@ Filtering
 <ul style="list-style-type:disc">
   <li>Interactive filters for Year, Month, and Country</li>
   </ul>
-<h3>Overview</h3>
-https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/e2a9d056-8f06-4385-8acd-5b827b0920e9
+<h3>Demo</h3>
+https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/72aa0d38-8e3b-4563-af60-7c6f131e6d3b
