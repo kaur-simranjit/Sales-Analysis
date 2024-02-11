@@ -1,23 +1,22 @@
 <h1>Sales Analysis using Excel</h1> 
-<p>The Sales Analysis project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
+<p>The sales analysis project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. The dashboard can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
 
 ![sales_dashboard](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/aca62998-0ab7-42c5-8862-d5838a8100ff)
 <h3>Tool Used</h3>
 
 ![Excel-Symbol](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/120a302f-f068-4678-a30e-81c314070a95)
 <br>
-Excel Skills Used: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
+Excel Skills Used: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting, Excel Dashboards
 
 <h3>Dataset</h3>
 https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis
 
 <h3>Overview</h3>
 <h5>Data Cleaning and Data Preprocessing</h5>
-Sales Transactions dataset with 34,865 rows and 18 columns spanning 2 years.
+The dataset comprises sales transactions data with 34,865 rows and 18 columns spanning 2 years.
 <ul style="list-style-type:disc">
-  <li>Blank column and cells are deleted. </li>
-  <li>Different customer ages are categorized into an age group of senior, adult, and teenager.</li>
-  <li>Cost and Revenue columns are used to calculate Profit and Profit Margin.</li>
+  <li>During the data cleaning process, blank column and cells are removed from the dataset. </li>
+  <li>As part of data preprocessing, customer ages are categorized into age groups: senior, adult, and teenager.Profit and Profit Margin are computed using Cost and Revenue columns.</li>
 </ul>
 
 ![data_cleaning_and_processing](https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/070bad10-bb0f-4174-ba1e-57de084a4b12)
@@ -72,4 +71,5 @@ Filtering
   <li>Interactive filters for Year, Month, and Country</li>
   </ul>
 
+<h5>Demo</h5>
 https://github.com/kaur-simranjit/Sales-Analysis/assets/109523596/e2a9d056-8f06-4385-8acd-5b827b0920e9
