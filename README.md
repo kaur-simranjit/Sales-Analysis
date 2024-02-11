@@ -1,13 +1,13 @@
 <h1>Sales Analysis using Excel</h1> 
 <p>The Sales Analysis Project involves data cleaning, data preprocessing, data analysis, and an interactive and user-friendly dashboard. It can allow stakeholders to gain insights into key metrics (expenses, revenue, profit, and profit margin), product performance, customer demographics, and compare regional performance.</p>
 
-<h3>Tool</h3>
+<h3>Tool Used</h3>
 Microsoft Excel
 <br>
-Skills: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
+Excel Skills Used: Aggregate Functions, Lookup and Reference Functions, Logical Functions, Pivot Tables and Charts, Conditional Formatting
 
 <h3>Dataset</h3>
-Kaggle(https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis)
+https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis
 
 <h3>Overview</h3>
 <h5>Data Cleaning and Data Preprocessing</h5>
